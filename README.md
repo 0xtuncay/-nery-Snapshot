@@ -1,4 +1,4 @@
-# -nery-Snapshot
+# ınery-Snapshot
 
 # İlk önce node kurmanız lazım,
 
